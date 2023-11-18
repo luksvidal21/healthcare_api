@@ -12,7 +12,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Healthcare.Data", "src\Heal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Healthcare.IoC", "src\Healthcare.IoC\Healthcare.IoC.csproj", "{0473A61C-FF70-458B-B9B6-30C0DAEA7784}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Healthcare.Api", "src\Healthcare.Api\Healthcare.Api.csproj", "{CEEBFE8E-5C49-4693-B680-6651564D8523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Healthcare.Api", "src\Healthcare.Api\Healthcare.Api.csproj", "{CEEBFE8E-5C49-4693-B680-6651564D8523}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4D2E1B0-266A-4336-B6A5-2172C297426F}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
